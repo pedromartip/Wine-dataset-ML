@@ -1,4 +1,4 @@
-# Wine-dataset-ML
+# Wine quality prediction
 
 Predicción de la calidad del vino utilizando diferentes algoritmos de predicción, como la regresión logística, perceptrón y random forest con el lenguaje Python para Machine Learning.
 
